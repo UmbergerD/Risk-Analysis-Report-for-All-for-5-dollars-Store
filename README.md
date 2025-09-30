@@ -23,16 +23,25 @@ Upon request from the company owner concerning the hacking of store machines sim
 
 # Methodology:
 Stage 1: Scoping the analysis
+  
   o Identify the asset at risk
+  
   o Identify the threat communities under investigation
+  
   o Define the loss event
 
 Stage 2: Evaluate Loss Event Frequency (LEF)
+  
   o Estimate Contact Frequency (CF)
+  
   o Estimate Probability of Action (PoA)
+  
   o Estimate Threat Event Frequency (TEF)
+  
   o Estimate Threat Capability (TCap)
+  
   o Estimate Resistance Strength (RS)
+  
   o From the above measures, we can find Vulnerability (Vuln) and Loss Event Frequency (LEF)
 
 # Skills:
