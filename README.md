@@ -3,7 +3,7 @@
 
 Upon request from company owner concerning the hacking of card reader machines similar to ATMs, I conducted a full risk analysis on the point-of-sale card readers for a 50-year-old business called All for $5 Stores LTD.
 
-I needed to brainstorm and ask questions concerning these inputs: What do I know at this point? What are the assets, threat communities, and loss events? What are the anticipated threat paths? How frequently would the threats occur? How vulnerable is the company to these threats? And What data do I have currently and is it objective for our purposes?
+I brainstormed and asked questions concerning these inputs: What do I know at this point? What are the assets, threat communities, and loss events? What are the anticipated threat paths? How frequently would the threats occur? How vulnerable is the company to these threats? And What data do I have currently and is it objective for our purposes?
 These questions pointed us in the right direction to conduct the risk analysis.
 
 My approach was to use the risk analysis using the FAIR Basic Risk Assessment Methodology. This was broken down into two stages. 
@@ -12,16 +12,14 @@ stage 2: Encompassing evaluate Loss Event Frequency, Estimate Contact Frequency,
 
 The assessment results showed the estimated minimum and maximum total loss amounts over a year, which ranged from $60,000 to $19.6 million. This is what the company could experience based on the current risk exposure. 
 
-The Loss Exceedance Curve visually shows that the more the loss exposure is or how much All for $5 Stores is vulnerable, the greater the possibility of loss is. 
+A Loss Exceedance Curve visually shows that the more the loss exposure is or how much All for $5 Stores is vulnerable, the greater the possibility of loss is. 
 
-The company currently has 97.08% vulnerability based on the data given. This curve shows the possibility of the loss exceeding a certain amount (being the loss exposure). 
-
-The Primary and Secondary loss breakdown shows me by the number of threat attacks per year, the amount of loss the company could be facing.
+The company currently has 97.08% vulnerability based on the data given. 
 
 # Business Problem:
-The company keeps costs down by allowing a contractor to maintain the store equipment but as I will see, this also opens up the door for non-invested intentions. Notably, the video surveillance is not robust with the records only keeping for one month time and reused every 30 days and could miss a device retrieval. However, the company prides itself on being well trained in loss prevention and working with local police on these matters.
+The company keeps costs down by allowing a contractor to maintain the store equipment but I saw, this also opens up the door for non-invested intentions. Notably, the video surveillance is not robust with the records only keeping for one month time and reused every 30 days and could miss a device retrieval. However, the company prides itself on being well trained in loss prevention and working with local police on these matters.
 
-Upon request from the company owner, Dan Johnson III, concerning the hacking of store machines similar to ATMs, I have conducted a full risk analysis on the point-of-sale card readers since it appeared after looking at loss prevention, most of the occurrences happened by shoplifting and bad checks. These can be a steady drain of cash flow and consistently hurt the company revenues. Dan is concerned about the negative publicity that data breaches can have and since All for $5 Stores is heavily involved with the local chamber of commerce and community, they want to keep the company reputation strong. I looked specifically at ATM skimmers, which sit on top of the card readers undetected and absorb data for some time, only to be retrieved later and used or sold for exploitation. I pulled together data provided by All for $5 Stores and ran a FAIR risk analysis to provide an estimate of how often and how much the company may be exposed to this form of loss.
+Upon request from the company owner concerning the hacking of store machines similar to ATMs, I have conducted a full risk analysis on the point-of-sale card readers since it appeared after looking at loss prevention, most of the occurrences happened by shoplifting and bad checks. These can be a steady drain of cash flow and consistently hurt the company revenues. The owner is concerned about the negative publicity that data breaches can have and since All for $5 Stores is heavily involved with the local chamber of commerce and community, they want to keep the company reputation strong. I looked specifically at ATM skimmers, which sit on top of the card readers undetected and absorb data for some time, only to be retrieved later and used or sold for exploitation. I pulled together data provided by All for $5 Stores and ran a FAIR risk analysis to provide an estimate of how often and how much the company may be exposed to this form of loss.
 
 # Methodology:
 Stage 1: Scoping the analysis
